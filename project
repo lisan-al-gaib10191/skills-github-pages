@@ -1,0 +1,16 @@
+<script>start("c:\\Users\\pinep\\Desktop\\week1LukeMarshall\\project\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bread.jpeg","bread.jpeg",0,166765,"163 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("cinnamon_roll.jpeg","cinnamon_roll.jpeg",0,308793,"302 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("cold_brew.jpeg","cold_brew.jpeg",0,378312,"369 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("cookies.jpeg","cookies.jpeg",0,93141,"91.0 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("croissant.jpeg","croissant.jpeg",0,195841,"191 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("drinks.html","drinks.html",0,1307,"1.3 kB",1739463869,"2/13/25, 4:24:29 PM");</script>
+<script>addRow("espresso.jpeg","espresso.jpeg",0,66432,"64.9 kB",1739358627,"2/12/25, 11:10:27 AM");</script>
+<script>addRow("iced_coffee.jpeg","iced_coffee.jpeg",0,54690,"53.4 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("index.html","index.html",0,1349,"1.3 kB",1739463869,"2/13/25, 4:24:29 PM");</script>
+<script>addRow("latte.jpeg","latte.jpeg",0,46948,"45.8 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("matcha_beetroot.jpeg","matcha_beetroot.jpeg",0,640255,"625 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("pain_au_chocolat.jpeg","pain_au_chocolat.jpeg",0,426534,"417 kB",1739366940,"2/12/25, 1:29:00 PM");</script>
+<script>addRow("pastries.html","pastries.html",0,1300,"1.3 kB",1739463869,"2/13/25, 4:24:29 PM");</script>
+<script>addRow("style.css","style.css",0,2560,"2.5 kB",1739464067,"2/13/25, 4:27:47 PM");</script>
